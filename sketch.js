@@ -28,9 +28,8 @@ let velocityX
 let velocityY
 
 function preload() {
-  song = loadSound("glitch.mp3");
+  song = loadSound("song1.mp3");
   tri = loadImage("tri.png");
-
 }
 
 function setup() {
